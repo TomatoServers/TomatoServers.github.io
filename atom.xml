@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TomatoServers.github.io/</id>
     <title>一个无趣的博客</title>
-    <updated>2021-02-14T03:36:19.148Z</updated>
+    <updated>2021-02-14T04:40:31.230Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TomatoServers.github.io/"/>
     <link rel="self" href="https://TomatoServers.github.io/atom.xml"/>
-    <subtitle>一些没有营养的内容</subtitle>
+    <subtitle>坚持做自己认为很酷的事</subtitle>
     <logo>https://TomatoServers.github.io/images/avatar.png</logo>
     <icon>https://TomatoServers.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个无趣的博客</rights>
