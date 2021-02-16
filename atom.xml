@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TomatoServers.github.io/</id>
     <title>一个无趣的博客</title>
-    <updated>2021-02-15T08:12:05.606Z</updated>
+    <updated>2021-02-16T06:16:35.116Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TomatoServers.github.io/"/>
     <link rel="self" href="https://TomatoServers.github.io/atom.xml"/>
@@ -10,6 +10,35 @@
     <logo>https://TomatoServers.github.io/images/avatar.png</logo>
     <icon>https://TomatoServers.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个无趣的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[都上大学了，你为什么还是学不会使用搜索引擎？]]></title>
+        <id>https://TomatoServers.github.io/post/guan-yu-da-xue-sheng-de-xin-xi-jian-suo-neng-li/</id>
+        <link href="https://TomatoServers.github.io/post/guan-yu-da-xue-sheng-de-xin-xi-jian-suo-neng-li/">
+        </link>
+        <updated>2021-02-16T07:16:28.000Z</updated>
+        <summary type="html"><![CDATA[<p>这是一篇关于搜索引擎的教程</p>
+]]></summary>
+        <content type="html"><![CDATA[<p>这是一篇关于搜索引擎的教程</p>
+<!-- more -->
+<p>打开浏览器，在地址栏输入以下几个网址中的任意之一：</p>
+<p>baidu.com</p>
+<p>google.com</p>
+<p>bing.com</p>
+<p>sogou.com</p>
+<p>在网页中央的“搜索栏”中输入你的问题，点击对应的按键，或者敲击回车，对应问题的答案就会呈现在你的眼前。</p>
+<p>是不是很简单？那么今后就试着用这种简单、快捷的方法去解决问题吧！！</p>
+<hr>
+<p>正文结束，接下来谈谈我的想法吧。</p>
+<p>为什么想要写一篇这样的文章呢？</p>
+<p>因为我觉得，使用搜索引擎去解决问题，是每个大学生应该掌握的基本能力。</p>
+<p>我身边有很多人，遇到问题第一反应都是向别人求助。这本无可厚非，可是当这些问题是百度一下，两分钟都不到就能解决的话，问别人有又什么必要呢？</p>
+<p>大学阶段，我们总是会需要各种各样的信息。无论是在平时的学习过程中用来参考，还是写论文时用来引用，我们都离不开信息。在互联网还没发明的曾经，大家想要这些信息都只能通过图书馆一层层去找、一本本去翻。如今，通过互联网，这些信息明明触手可及，大家动动手指就能轻松接触到，为什么大家却不愿意去使用了呢？</p>
+<p>私以为，我们不能只把互联网当作娱乐的工具。当人每天浸泡在算法推送的大数据之中，人便活成了算法的附庸。没了算法，人仿佛就无法生存、无法继续。这真的是互联网诞生的初衷吗？</p>
+<p>互联网是一种工具，它也只应该是一种工具。这一工具让我们能轻松地接触到各种信息，降低我们的学习成本。在互联网中学习，我们花费比前人少的还要少的时间成本，却能得到跟他们差不多，甚至更多的收益。这才是互联网存在的真正价值。</p>
+<p>也许会有人说，互联网信息鱼龙混杂。那是你不会发掘，不会检索。只要你肯探索——在搜索结果中多翻几页——你就能看到优质的内容。</p>
+<p>大学精神有一个非常重要的部分——独立。放在当下，我觉得最切实际的就是：独立地使用互联网。跳出算法的桎梏，学会使用搜索引擎，学会信息的检索。先做到这些，才是独立思考的第一步——“独立思考”不是在朋友圈里看了一些煽情的句子，读了几篇大数据推送的营销文章——那是算法在替你思考。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[四叠半主义（伪）]]></title>
         <id>https://TomatoServers.github.io/post/si-die-ban-zhu-yi-wei/</id>
