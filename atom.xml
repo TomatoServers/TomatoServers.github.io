@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TomatoServers.github.io/</id>
     <title>一个无趣的博客</title>
-    <updated>2021-03-24T13:14:29.643Z</updated>
+    <updated>2021-03-24T14:10:59.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TomatoServers.github.io/"/>
     <link rel="self" href="https://TomatoServers.github.io/atom.xml"/>
@@ -10,6 +10,18 @@
     <logo>https://TomatoServers.github.io/images/avatar.png</logo>
     <icon>https://TomatoServers.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个无趣的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[关于这里]]></title>
+        <id>https://TomatoServers.github.io/post/guan-yu-zhe-li/</id>
+        <link href="https://TomatoServers.github.io/post/guan-yu-zhe-li/">
+        </link>
+        <updated>2021-03-24T14:02:07.000Z</updated>
+        <content type="html"><![CDATA[<p>你好！不知道你是通过网上冲浪，还是公众号找到了这里？总之，相见是缘！</p>
+<p>如你所见，目前这里写了一些无趣且没有营养的内容，大多都是我极度主观化的没有意义的感情宣泄。但是我还是决定把这些东西通过公众号引流的方式向尽可能多的人展示。因为，创作出来的东西，本身就是让他人去看的吧？如果我仅仅只是让我传作的东西待在这里——互联网的角落里，我其实是在害怕和逃避吧？</p>
+<p>感谢您的访问。如果您有任何建议，或者在浏览过程中有任何不适，欢迎联系我！希望我有朝一日能成为创作出有趣内容的内容输出者。</p>
+<p>，希望我的文字多少能给您带去些什么。嘲笑也好，不屑也好……这也就是这个博客和这些文字存在的意义了。</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[哲学作业 | 面对“造神运动”，我们该怎么办？]]></title>
         <id>https://TomatoServers.github.io/post/hw0324/</id>
