@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://TomatoServers.github.io/</id>
     <title>一个无趣的博客</title>
-    <updated>2021-04-08T08:20:38.789Z</updated>
+    <updated>2021-04-08T08:30:17.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://TomatoServers.github.io/"/>
     <link rel="self" href="https://TomatoServers.github.io/atom.xml"/>
@@ -10,6 +10,23 @@
     <logo>https://TomatoServers.github.io/images/avatar.png</logo>
     <icon>https://TomatoServers.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, 一个无趣的博客</rights>
+    <entry>
+        <title type="html"><![CDATA[哲学作业 | 被误解是表达者的宿命]]></title>
+        <id>https://TomatoServers.github.io/post/zhe-xue-zuo-ye-or-bei-wu-jie-shi-biao-da-zhe-de-su-ming/</id>
+        <link href="https://TomatoServers.github.io/post/zhe-xue-zuo-ye-or-bei-wu-jie-shi-biao-da-zhe-de-su-ming/">
+        </link>
+        <updated>2021-04-08T08:21:16.000Z</updated>
+        <content type="html"><![CDATA[<p>重温新国辩哲理辩，又看到了这个辩题。结合我这半年来的生活经历，我愈发赞同：被误解是表达者的宿命。</p>
+<p>0.表达，是表达者对自己观点的输出。1.表达者和接收者根据各自的人生经历对观点进行理解。2.二者的人生经历不同。3.这种不同必然会造成理解上的错位。4.理解上的错位导致了误解。5.这种错位是必然的，所以误解是必然的。</p>
+<p>0.表达，是表达者对自己观点的输出。这种输出在我们的日常生活中随处可见，只是形式上略有不同。“你妈喊你回家吃饭”和一篇学术论文，都是观点的输出。只不过，前者比较直接，观点便为其内容。后者则借助语言进行了包装，辅之以论证和说理，让观点看起来更为可信。</p>
+<p>1.表达者和接收者根据各自的人生经历对观点进行理解。表达者基于特定的立场提出观点，而这种立场则出于他自身的深切情感。这样的一种情感是由他的人生经历所孕育的。同理，接收者也会站在自己的特定立场上对观点进行理解，这一理解的立场也由其人生经历决定。</p>
+<p>2.二者的人生经历不同。正如俗语所言：“世界上没有相同的两片雪花”，世界上也没有两个人生经历完全相同的人。人生经历的不同导致了立场的不同，立场的不同影响我们对观点的理解。</p>
+<p>3.这种不同必然会造成理解上的错位。我们虽然可以通过“知人论世”，去尽可能多地站在表达者的立场思考，但是我们也不能百分百还原他在表达时的真实所感。比如杜甫的“城春草木深”，我们都知道杜甫是在写国都沦陷后的荒凉。可是，我们毕竟没有亲眼见识过首都的沦陷，我们想象中的亡国之悲，与杜甫所亲身体验到的情感之间，必然会有错位存在。哪怕有时光机存在，我们穿越回了杜甫的那个年代，亲眼见过了他所见的场景，但由于我们没有杜甫此前的人生经历，我们也体会不到杜甫的情感从压抑到爆发的整个过程。所以，人生经历的不同所造成的错位是我们无法避免的。</p>
+<p>4.理解上的错位导致了误解。</p>
+<p>5.这种错位是必然的，所以误解是必然的。只要接收者不能获得表达者的全部记忆和情感，接收者就不能百分之百还原表达者的立场。这种错位便是误解的根源。人类无法消除这一根源，表达者便无法避免被误解这一宿命。</p>
+<p>如果你不同意的观点，或许是因为你有不被误解的经历，或者从你接受的教育、以你的思维方式来看，我说的全是扯淡。这不正是一种错位吗？这不就是一种误解吗？</p>
+]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[读书会 | 绝望的新世界]]></title>
         <id>https://TomatoServers.github.io/post/du-shu-hui-or-jue-wang-de-xin-shi-jie/</id>
